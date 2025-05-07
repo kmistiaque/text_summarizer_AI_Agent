@@ -1,0 +1,8 @@
+newspaper3k==0.2.8
+transformers==4.36.2
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cpu
+streamlit==1.29.0
+requests==2.31.0
+python-dotenv==1.0.0
+numpy>=1.26.0 
